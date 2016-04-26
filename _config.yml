@@ -1,0 +1,28 @@
+name: Justin Lester
+favicon: null
+layout_spectrum: 0.8911960504483432
+typography_spectrum: 0.40385814663022757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7394863376393914
+  lightness: 0.7810964214149863
+  saturation: 0.11465906002558768
+  rhythmicContrast: 0.4362668846733868
+purpose: []
