@@ -1,7 +1,7 @@
 name: Justin Lester
 favicon: null
-layout_spectrum: 0.8911960504483432
-typography_spectrum: 0.40385814663022757
+layout_spectrum: 0.00875
+typography_spectrum: 0.84926
 title: ForeverLester
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fbfaf6'
+    - '#10142b'
+    - '#2b3a4f'
+    - '#a2acb4'
+    - '#747b8a'
   brandStrength: 0.7394863376393914
   lightness: 0.7810964214149863
   saturation: 0.11465906002558768
