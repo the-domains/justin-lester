@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ForeverLester]]></title>
         <description><![CDATA[ForeverLester]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justin-lester/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 03:43:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 03:45:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justin-lester/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a1c133-92da-44b9-9379-1a272b3b50fd.jpg">]]></description>
-            <link>undefinedwe-are-moving-to-rhode-island/index.html</link>
+            <link>https://thegrid.ai/justin-lester/we-are-moving-to-rhode-island/index.html</link>
             <guid isPermaLink="false">5ca28a89-7cfc-476b-bf32-9b68a50e38ed</guid>
-            <pubDate>Tue, 26 Apr 2016 03:42:33 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 03:45:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
